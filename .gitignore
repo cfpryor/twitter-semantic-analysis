@@ -1,0 +1,9 @@
+*.swp
+.DS_Store
+*.pyc
+__pycache__
+*.egg-info
+
+/private_files
+/data
+/stanford-corenlp-full-2018-10-05
