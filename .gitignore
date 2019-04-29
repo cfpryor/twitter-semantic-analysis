@@ -7,3 +7,7 @@ __pycache__
 /private_files
 /data
 /stanford-corenlp-full-2018-10-05
+
+out.err
+out.txt
+trending_tweets.txt
